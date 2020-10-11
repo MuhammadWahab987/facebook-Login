@@ -58,6 +58,12 @@ extension ViewController: LoginButtonDelegate {
     }
     
     
+    func developmentCode()
+    {
+        print("This Code is for testing of development branch")
+    }
+    
+    
 }
 
 
